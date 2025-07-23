@@ -1,0 +1,11 @@
+# Ignore system and temp files
+.DS_Store
+Thumbs.db
+
+# Ignore Replit files
+.replit
+*.replit
+
+# Ignore OS-specific
+ehthumbs.db
+Desktop.ini
